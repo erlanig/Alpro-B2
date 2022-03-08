@@ -20,7 +20,7 @@ int main()
     scanf("%f", &t3);
     if ((t1=t2=t3) >= 0){
             total = t1 + t2 + t3;
-            printf("Maka total tahanan jika dirangkai seri adalah%.2f\n",total);
+            printf("Maka total tahanan jika dirangkai seri adalah %.2f\n",total);
     }
     else{
         printf("Masukan tahanan tidak boleh negatif");
