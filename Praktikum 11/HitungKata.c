@@ -14,7 +14,7 @@ int main(){
     char str[100]; // Untuk menampung kalimat yang akan dihitung total kata-nya
   	int i, totalwords;
 
-  	/*Algoritma*/
+    /*Algoritma*/
     printf("Program Mesin Hitung Kata\n");
     if (totalwords >= 100)
     {
